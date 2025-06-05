@@ -32,8 +32,8 @@ graph_config = {
 
 # ----------------------------------- Creating new Graph ------------------------------- #
 
-# graph_response = requests.post(url=graph_endpoint, json=graph_config, headers=HEADER)
-# print(graph_response.text)
+graph_response = requests.post(url=graph_endpoint, json=graph_config, headers=HEADER)
+print(graph_response.text)
 
 # ----------------------------------- Post a Pixel ------------------------------- #
 def post_pixel():
