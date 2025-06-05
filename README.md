@@ -5,6 +5,7 @@ This Python script provides an automated way to log, update, and delete daily wa
 
 # About Pixela
 Visit [Pixela](https://pixe.la/) – a great service for tracking daily habits and creating visual graphs effortlessly!
+[Pixela Website](https://pixe.la/) _(Right-click to open in a new tab)_
 
 
 # Features
