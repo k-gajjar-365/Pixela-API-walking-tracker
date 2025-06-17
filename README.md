@@ -4,8 +4,8 @@
 This Python script provides an automated way to log, update, and delete daily walking distance data using the Pixela API. With environment variables handling authentication, it ensures a streamlined and secure tracking experience.
 
 ## About Pixela
-- Visit **[Pixela Website]**(https://pixe.la/) – a great service for tracking daily habits and creating visual graphs effortlessly!
-- Visit their Github Repository **[here.]**(https://github.com/a-know/Pixela)
+- Visit **[Pixela Website](https://pixe.la/)** – a great service for tracking daily habits and creating visual graphs effortlessly!
+- Visit their Github Repository **[here.](https://github.com/a-know/Pixela)**
 
 ## Features
 
